@@ -21,9 +21,25 @@ class ViewController: UIViewController {
     func averageFeature() {
         
         // This line of code needed a comment
+        // Another line of code commenting.
         println("This is an average feature!");
         
     }
-
+    
+    func featureY() {
+        
+        for i in 0...10 {
+            println(i)
+        }
+        
+    }
+    
+    // This function will contain feature-q
+    func featureQ() {
+        
+        
+        
+    }
+    
 }
 
