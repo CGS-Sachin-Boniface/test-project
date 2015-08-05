@@ -13,7 +13,8 @@ class SecondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        println("test")
+        // Line of debug code
+        println("testing, testing")
 
         // Do any additional setup after loading the view.
     }
